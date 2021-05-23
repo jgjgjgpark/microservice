@@ -1,0 +1,9 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: service01
+service:
+  name: service01
+  features:
+    - Use ConfigureProperties
